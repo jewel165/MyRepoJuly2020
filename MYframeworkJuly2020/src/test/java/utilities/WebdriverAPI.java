@@ -18,7 +18,7 @@ public class WebdriverAPI {
 	
 	// Wedriver related methods
 	
-	public  WebDriver driver;
+	public  WebDriver driver=null;
 	public String filepath;
 
 	public  void WaitforFOURseconds() throws Exception {
